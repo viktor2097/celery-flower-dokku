@@ -1,0 +1,1 @@
+web: flower --port=$PORT --broker=$REDIS_URL --basic_auth=$CELERY_FLOWER_USER:CELERY_FLOWER_PASSWORD
