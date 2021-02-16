@@ -1,6 +1,6 @@
 # Celery flower monitoring on Dokku
 
-Simple app to monitor to celery task running on Dokku.
+Simple app to monitor celery
 
 ## Instructions:
 
